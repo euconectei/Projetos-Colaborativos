@@ -1,0 +1,29 @@
+{
+  "name": "projetos-colaborativos",
+  "version": "0.0.1",
+  "dependencies": {
+    "impress.js": "~0.5.3",
+    "handlebars": "~1.0.0",
+    "jquery": "~1.10"
+  },
+  "authors": [
+    "Rafael França <rafaelfms@gmail.com>"
+  ],
+  "description": "Palestra na Universidade Castelo Branco (UCB) sobre projetos colaborativos",
+  "keywords": [
+    "Projetos",
+    "Colaborativos",
+    "Palestra",
+    "GitHub",
+    "Git",
+    "Trello"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

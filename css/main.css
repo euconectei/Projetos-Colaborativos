@@ -1,0 +1,84 @@
+/**
+ * Every step element has one of three classes: `future`, `present` and `past`.
+ * Only one current step has the `present` class.
+ * When a step is shown (selected) its element gets the class of "active" and 
+ * the body element gets the class `impress-on-ID` where ID is the step's id.
+ */
+
+.notes {
+    display:none;
+}
+
+h1 {
+    font-size: 4em !important;
+}
+.nome {
+    font-size: 2.5em;
+}
+.step h2 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.text-right {
+	text-align: right;
+}
+
+body {
+	background-color: #f1c40f;
+	background-image: none;
+	color: #fff;
+	transition: all 1s !important;
+	-ms-transition: all 1s !important;
+	-o-transition: all 1s !important;
+	-webkit-transition: all 1s !important;
+}
+
+.step {
+    font-size: 1.4em;
+}
+.impress-on-title {
+	background-color: #f1c40f;
+}
+.impress-on-o-que-e-projeto {
+	background-color: #1abc9c;
+}
+.impress-on-colaboracao-ou-cooperacao {
+	background-color: #95a5a6;
+}
+.impress-on-e-projeto-colaborativo {
+	background-color: #e74c3c;
+}
+.impress-on-quem-tem-projeto-colaborativo {
+    background-color: #34495e;
+}
+.impress-on-quais-ferramentas-eu-uso {
+    background-color: #e67e22;
+}
+.impress-on-git-o-que {
+    background-color: #95a5a6;
+}
+.impress-on-git {
+    background-color: #f1c40f;
+}
+.impress-on-github {
+    background-color: #9b59b6;
+}
+.impress-on-trello {
+    background-color: #2980b9;
+}
+.impress-on-metodologias-ageis {
+    background-color: #c0392b;
+}
+.impress-on-mas-o-que-eu-ganho-com-isso {
+    background-color: #27ae60;
+}
+.impress-on-entendi-mas-na-faculdade-isso-me-ajuda {
+    background-color: #95a5a6;
+}
+.impress-on-bibliografia {
+    background-color: #d35400;
+}
+.impress-on-contato {
+    background-color: #1abc9c;
+}

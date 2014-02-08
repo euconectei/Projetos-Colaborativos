@@ -1,0 +1,212 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "o-que-e-projeto.html",
+        "id": "o-que-e-projeto",
+        "class": "step",
+        "data": {
+            "x": 1000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 20,
+            "rotate-y": 40,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "colaboracao-ou-cooperacao.html",
+        "id": "colaboracao-ou-cooperacao",
+        "class": "step",
+        "data": {
+            "x": 1000,
+            "y": 1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 40,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "e-projeto-colaborativo.html",
+        "id": "e-projeto-colaborativo",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": 1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 130,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "quem-tem-projeto-colaborativo.html",
+        "id": "quem-tem-projeto-colaborativo",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "quais-ferramentas-eu-uso.html",
+        "id": "quais-ferramentas-eu-uso",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": -1000,
+            "z": 200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "git-o-que.html",
+        "id": "git-o-que",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": -1000,
+            "z": 200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 45,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "git.html",
+        "id": "git",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": 1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "github.html",
+        "id": "github",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "trello.html",
+        "id": "trello",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "metodologias-ageis.html",
+        "id": "metodologias-ageis",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "mas-o-que-eu-ganho-com-isso.html",
+        "id": "mas-o-que-eu-ganho-com-isso",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 2500,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 45,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "entendi-mas-na-faculdade-isso-me-ajuda.html",
+        "id": "entendi-mas-na-faculdade-isso-me-ajuda",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 4000,
+            "z": -1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 45
+        }
+    },
+    {
+        "uri": "bibliografia.html",
+        "id": "bibliografia",
+        "class": "step",
+        "data": {
+            "x": 4500,
+            "y": 5000,
+            "z": -1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "contato.html",
+        "id": "contato",
+        "class": "step",
+        "data": {
+            "x": -5000,
+            "y": 4000,
+            "z": 15000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    }
+]
